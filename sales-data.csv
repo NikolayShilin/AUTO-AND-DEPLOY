@@ -1,0 +1,11 @@
+dt,company,transaction_type,amount
+08-27-2024,TSLA,buy,77
+08-27-2024,PFE,buy,797
+08-27-2024,F,buy,366
+08-27-2024,INTL,buy,193
+08-27-2024,BAC,buy,860
+08-27-2024,TSLA,sell,861
+08-27-2024,PFE,sell,779
+08-27-2024,F,sell,674
+08-27-2024,INTL,sell,266
+08-27-2024,BAC,sell,186
